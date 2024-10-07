@@ -21,6 +21,18 @@
 - **return to toon** : press 'M'.
 - **light position** ; play with x,X y,Y, z,Z keys.
 
+### Toon shading
+![Screenshot 2024-10-07 114600](https://github.com/user-attachments/assets/c18c275b-146d-48ca-9c19-def41a619239)
+### Toon shading + silhouette
+![image](https://github.com/user-attachments/assets/08b78cb5-de44-422e-9b46-33cc80aec793)
+### gooch shading
+![image](https://github.com/user-attachments/assets/305e380b-d348-44a3-a5ab-5c5170ef28d4)
+### envirenment map 
+![image](https://github.com/user-attachments/assets/99f691b5-516d-4c95-8c9f-d4aa50000470)
+
+
+
+
 
 
 
